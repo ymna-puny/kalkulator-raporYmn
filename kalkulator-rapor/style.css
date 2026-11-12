@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+form {
+    margin: 30px;
+    padding: 80px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    display:inline-block;
+    background-color: black;
+    border-radius: 15px;
+    border: 2px solid blue;
+}
+
+form:hover {
+    box-shadow: 3px 4px 10px 1px blue;
+}
+
+input {
+    color: white;
+    background-color: black;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
